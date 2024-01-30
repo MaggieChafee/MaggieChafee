@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Maggie!
+🌱 I’m currently studying full stack development at Nashville Software School
 <!--
 **MaggieChafee/MaggieChafee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
