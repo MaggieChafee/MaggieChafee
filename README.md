@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Maggie!
-🌱 I’m currently studying full stack development at Nashville Software School
+- 🌱 I’m currently studying full stack development at Nashville Software School
+- ⚡ I’m interested in web design, coding, music, and reading as mush as I can
+- 😄 Pronouns: she/her
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maggie-chafee/)
 <!--
 **MaggieChafee/MaggieChafee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
