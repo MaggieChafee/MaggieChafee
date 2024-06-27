@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Maggie!
-- 🌱 I’m a fullstack web developer and database administrator based in Nashville, TN. 
+- 🌱 I’m a fullstack web developer based in Nashville, TN. 
 - ⚡ I’m interested in web development, design, music, and reading as mush as I can.
 - 💬 I'm currently learning Tyspescript and software design patterns. 
 - 😄 Pronouns: she/her
