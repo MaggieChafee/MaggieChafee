@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Maggie!
-- 🌱 I’m currently studying full stack development at Nashville Software School
-- ⚡ I’m interested in web design, coding, music, and reading as mush as I can
+- 🌱 I’m a fullstack web developer and database administrator based in Nashville, TN. 
+- ⚡ I’m interested in web development, design, music, and reading as mush as I can.
+- 💬 I'm currently learning Tyspescript and software design patterns. 
 - 😄 Pronouns: she/her
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maggie-chafee/)
 <!--
